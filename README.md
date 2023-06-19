@@ -12,7 +12,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/brian-njuguna-479106183)
 - [Twitter](https://twitter.com/wagathu_)
-- Discord: suprivada#2244
 
 ---
   
@@ -31,5 +30,3 @@
 - alx-system_engineering-devops
 
 ---
-  
-- Discord Server
