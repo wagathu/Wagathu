@@ -18,7 +18,7 @@
 ## ┌──┤ PROJECTS ├───────▰▰▰
   
 - Stock Return Prediction
-- CRAN StockDistFit package
+- [CRAN StockDistFit package](https://github.com/wagathu/StockDistFit.git)
 - [R shiny app for Kenya Demography](https://wagathu.shinyapps.io/demography/)
 - Univariate Stock Modelling
 
@@ -26,7 +26,7 @@
   
 ## ┌──┤ ALX PROJECTS ├───────▰▰▰
   
-- alx-low_level_programming
-- alx-system_engineering-devops
+- [alx-low_level_programming](https://github.com/wagathu/alx-low_level_programming.git)
+- [alx-system_engineering-devops](https://github.com/wagathu/alx-system_engineering-devops.git)
 
 ---
