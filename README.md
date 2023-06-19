@@ -1,9 +1,35 @@
-- 👋 Hi, I’m @Wagathu
-- 👀 I’m interested in Data science and Data analysis. Also interested in Machine Learning and programming
-- 🌱 I’m currently learning Statistics 
-- 📫 You can reach me on my email briannjuguna133@gmail.com
+## ┌──┤ WHOAMI ├─────────▰▰▰
 
-<!---
-Wagathu/Wagathu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Data Scientist at Candlesticks Investments Ltd
+- Software Engineer Student at ALX Africa
+- From Nairobi, Kenya
+- I am a statistician by training and education, and I have transitioned into the field of data science with a specific focus on data analytics within the realms of healthcare and finance.
+- I have a profound interest in Machine Learning, AI as well as programming languages like C++, C, and Python, 
+
+---
+  
+## ┌──┤ SOCIAL ├─────────▰▰▰
+
+- [LinkedIn](https://www.linkedin.com/in/brian-njuguna-479106183)
+- [Twitter](https://twitter.com/wagathu_)
+- Discord: suprivada#2244
+
+---
+  
+## ┌──┤ PROJECTS ├───────▰▰▰
+  
+- Stock Return Prediction
+- CRAN StockDistFit package
+- [R shiny app for Kenya Demography](https://wagathu.shinyapps.io/demography/)
+- Univariate Stock Modelling
+
+---
+  
+## ┌──┤ ALX PROJECTS ├───────▰▰▰
+  
+- alx-low_level_programming
+- alx-system_engineering-devops
+
+---
+  
+- Discord Server
