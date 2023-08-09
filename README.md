@@ -1,6 +1,6 @@
 ## ┌──┤ WHOAMI ├─────────▰▰▰
 
-- Data Scientist at Candlesticks Investments Ltd
+- Data Scientist at CEMA
 - Software Engineer Student at ALX Africa
 - From Nairobi, Kenya
 - I am a statistician by training and education, and I have transitioned into the field of data science with a specific focus on data analytics within the realms of healthcare and finance.
