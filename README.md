@@ -1,10 +1,8 @@
 ## ┌──┤ WHOAMI ├─────────▰▰▰
 
 - Data Scientist at CEMA
-- Software Engineer Student at ALX Africa
 - From Nairobi, Kenya
 - I am a statistician by training and education, and I have transitioned into the field of data science with a specific focus on data analytics within the realms of healthcare and finance.
-- I have a profound interest in Machine Learning and AI
 
 ---
 ## ┌──┤ PROGRAMMING LANGUAGES ├─────────▰▰▰
@@ -29,12 +27,4 @@
 - [CRAN StockDistFit package](https://github.com/wagathu/StockDistFit.git)
 - [R shiny app for Kenya Demography](https://wagathu.shinyapps.io/demography/)
 - Univariate Stock Modelling
-
----
-  
-## ┌──┤ ALX PROJECTS ├───────▰▰▰
-  
-- [alx-low_level_programming](https://github.com/wagathu/alx-low_level_programming.git)
-- [alx-system_engineering-devops](https://github.com/wagathu/alx-system_engineering-devops.git)
-
 ---
